@@ -255,8 +255,6 @@ python3 src/predict_critical_infrastructure.py \
 
 ---
 
-## 10. Как описать в ВКР
-
 Основные эксперименты:
 
 1. SpaceNet 2: U-Net vs SegFormer для сегментации зданий.
