@@ -1,0 +1,12 @@
+torch
+torchvision
+transformers
+timm
+opencv-python-headless
+albumentations
+rasterio
+shapely
+numpy
+scikit-learn
+matplotlib
+tqdm
